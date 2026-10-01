@@ -32,13 +32,6 @@ Estudiante de Diseño Gráfico con enfoque en UI, apasionado por crear experienc
   <img src="https://img.shields.io/badge/Apps%20M%C3%B3viles-22C55E?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-<!--
-  Nota para Roberto: agregué badges genéricos por categoría porque tu CV no
-  menciona programas/lenguajes específicos. Si usas herramientas puntuales
-  (Figma, Adobe XD, Illustrator, HTML/CSS, Java, Kotlin, etc.) dime cuáles
-  y te agrego sus badges exactos con logo.
--->
-
 ---
 
 ### 🚀 Experiencia destacada
@@ -49,11 +42,10 @@ Estudiante de Diseño Gráfico con enfoque en UI, apasionado por crear experienc
 
 ---
 
-### 📊 Mi actividad en GitHub
+### 💬 Frase del día
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roberto-Miranda&show_icons=true&count_private=true&locale=es&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roberto-Miranda&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase aleatoria" />
 </p>
 
 ---
@@ -65,7 +57,5 @@ Estudiante de Diseño Gráfico con enfoque en UI, apasionado por crear experienc
   <a href="https://lix.li/8aECM"><img src="https://img.shields.io/badge/Portafolio-6C63FF?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
 </p>
 
-<!--
-  Nota: dejé solo correo y el link de tu CV. Si tienes LinkedIn, Behance,
-  Instagram de diseño, etc., dímelos y los agrego con su badge correspondiente.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" alt="" />
+
